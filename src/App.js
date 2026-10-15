@@ -3,7 +3,7 @@ import Starters from './Starters'
 const App = () => {
   return (
     <div>
-      {/* <Starters/> */}
+      <Starters/>
     </div>
   )
 }
