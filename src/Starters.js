@@ -28,7 +28,7 @@ export default function Starters() {
             {starter.map((i)=>{
                 return(
                     <>
-                    <h1>welcom</h1>
+                    <h1>welcom to menu</h1>
                     <img src={i.image} />
                     <h1>{i.id}</h1>
                     <p>{i.name}</p>
